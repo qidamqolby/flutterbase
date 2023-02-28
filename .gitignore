@@ -44,4 +44,4 @@ app.*.map.json
 /android/app/release
 
 # Added Ignore
-**/ios/Runner/GoogleService-info.plist
+ios/Runner/GoogleService-Info.plist
